@@ -1,0 +1,12 @@
+body{
+
+    background-color: pink;
+}
+.div {
+    width: 600px;
+    height: 100px;
+    font-size: 30px;
+    color: #fff;
+    background-color: red;
+
+}
